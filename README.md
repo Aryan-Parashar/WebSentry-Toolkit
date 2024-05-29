@@ -73,65 +73,69 @@ This script checks for broken access controls in a web application by attempting
     Log Findings: Any URLs that allow unauthorized access are logged for further investigation.
 
 ## References for Payloads
--Broken Access Controls
+### Broken Access Controls
 
-  -- OWASP SQL Injection
-    OWASP XSS
-    OWASP Command Injection
-    OWASP Path Traversal
-    OWASP Broken Authentication
-    OWASP Sensitive Data Exposure
-    OWASP CSRF
-    OWASP Insecure Deserialization
-    OWASP Security Misconfiguration
-    OWASP XXE
-    OWASP Insecure Direct Object References
-    OWASP SSRF
-    OWASP File Upload
-    OWASP Session Fixation
-    OWASP Clickjacking
-    OWASP CORS
-    OWASP Unvalidated Redirects and Forwards
-    OWASP CSP
-    OWASP HTTP Parameter Pollution
-    OWASP Server Side Template Injection
-    OWASP Cross-Site Script Inclusion
-    OWASP Code Injection
-    OWASP XML Injection
-    OWASP File Inclusion
-    OWASP Session Hijacking
-    OWASP Brute Force Attack
-    OWASP LDAP Injection
+  -**OWASP SQL Injection**
+  -**OWASP XSS**
+  -**OWASP Command Injection**
+  -**OWASP Path Traversal**
+  -**OWASP Broken Authentication**
+  -**OWASP Sensitive Data Exposure**
+  -**OWASP CSRF**
+  -**OWASP Insecure Deserialization**
+  -**OWASP Security Misconfiguration**
+  -**OWASP XXE**
+  -**OWASP Insecure Direct Object References**
+  -**OWASP SSRF**
+  -**OWASP File Upload**
+  -**OWASP Session Fixation**
+  -**OWASP Clickjacking**
+  -**OWASP CORS**
+  -**OWASP Unvalidated Redirects and Forwards**
+  -**OWASP CSP**
+  -**OWASP HTTP Parameter Pollution**
+  -**OWASP Server Side Template Injection**
+  -**OWASP Cross-Site Script Inclusion**
+  -**OWASP Code Injection**
+  -**OWASP XML Injection**
+  -**OWASP File Inclusion**
+  -**OWASP Session Hijacking**
+  -**OWASP Brute Force Attack**
+  -**OWASP LDAP Injection**
 
-- Cache Poisoning
+### Cache Poisoning
 
-    -- OWASP Secure Headers
-    MDN HTTP Headers
-    RFC 7234
-    Akamai Blog on Cache Poisoning
-    PortSwigger Web Security Academy
-    Practical Web Cache Poisoning
-    Imperva on Cache Poisoning Attacks
+-**OWASP Secure Headers**
+-**MDN HTTP Headers**
+-**RFC 7234**
+-**Akamai Blog on Cache Poisoning**
+-**PortSwigger Web Security Academy**
+ -**Practical Web Cache Poisoning**
+ -**Imperva on Cache Poisoning Attacks**
 
-- Open Ports
+### Open Ports
 
-    --Netwrix Blog on Open Port Vulnerabilities
+   -**Netwrix Blog on Open Port Vulnerabilities**
 
--CRLF Injection
+### Google Dork Queries 
+ 
+  -**GHD -Google Hacking Database**
 
-  --OWASP Testing Guide: CRLF Injection
-    PayloadsAllTheThings - CRLF Injection
-    PortSwigger Web Security Academy
-    Exploit Database
-    PayloadBox XSS Payload List
+### CRLF Injection
 
--Additional References
+  -**OWASP Testing Guide: CRLF Injection**
+    -**PayloadsAllTheThings - CRLF Injection**
+    -**PortSwigger Web Security Academy**
+    -**Exploit Database**
+    -**PayloadBox XSS Payload List**
 
-  --HackTricks - XSLT Server-Side Injection
-    Awesome WAF
-    HackTricks - Web API Pentesting
-    PayloadBox SSTI Payloads
-    SSRF Testing
-    Command Injection Payload List
-    LaTeX Injection Payloads
-    Offensive Payloads - HTML Injection Payloads
+### Additional References
+
+  -**HackTricks - XSLT Server-Side Injection**
+    -**Awesome WAF**
+    -**HackTricks - Web API Pentesting**
+    -**PayloadBox SSTI Payloads**
+    -**SSRF Testing**
+    -**Command Injection Payload List**
+    -**LaTeX Injection Payloads**
+    -**Offensive Payloads - HTML Injection Payloads**
