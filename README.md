@@ -44,6 +44,7 @@ WebSentry-Toolkit is a comprehensive collection of scripts designed to perform v
 - **Session Fixation**
 - **Session Hijacking**
 - **Spider Link Parameter Input**
+- **SQL Injections SQLi**
 - **Subdomain Analysis and Enumeration**
 - **Unprotected API Endpoints**
 - **Web Application Firewall Evasion**
