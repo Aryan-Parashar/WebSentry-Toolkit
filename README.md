@@ -2,7 +2,7 @@
 
 
 
-WebSentry-Toolkit is a comprehensive collection of scripts designed to perform vulnerability assessments and penetration testing of web applications. This toolkit focuses on the OWASP Top 40 and works on an MITM attack model, providing a range of tests to identify and mitigate security issues.
+WebSentry-Toolkit is a comprehensive collection of scripts designed to perform vulnerability assessments and penetration testing of web applications. This toolkit focuses on the OWASP Top 10 and works on an MITM attack model, providing a range of tests to identify and mitigate security issues.
 
 ## Features
 
